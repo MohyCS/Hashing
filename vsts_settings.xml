@@ -1,10 +1,50 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://ComputerScienceFoundations@dev.azure.com/ComputerScienceFoundations/Hashing/_git/HashingBasics" />
+          <option name="serverUri" value="https://dev.azure.com/ComputerScienceFoundations" />
+          <option name="userId" value="fc999075-5d3f-6483-8a84-201700574975" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f9989194-db81-4da0-b654-b4e3bd28efcd&quot;,&quot;name&quot;:&quot;ComputerScienceFoundations&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projectCollections/f9989194-db81-4da0-b654-b4e3bd28efcd&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Hashing Coding Exercise Solutions&quot;,&quot;id&quot;:&quot;97056a15-a32e-4767-adf2-69c9d2e312be&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projects/97056a15-a32e-4767-adf2-69c9d2e312be&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;8bf12fb1-4a71-4c0a-be3a-e1f1c6ff6764&quot;,&quot;name&quot;:&quot;HashingBasics&quot;,&quot;remoteUrl&quot;:&quot;https://ComputerScienceFoundations@dev.azure.com/ComputerScienceFoundations/Hashing/_git/HashingBasics&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/97056a15-a32e-4767-adf2-69c9d2e312be/_apis/git/repositories/8bf12fb1-4a71-4c0a-be3a-e1f1c6ff6764&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Hashing Coding Exercise Solutions&quot;,&quot;id&quot;:&quot;97056a15-a32e-4767-adf2-69c9d2e312be&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projects/97056a15-a32e-4767-adf2-69c9d2e312be&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="fc999075-5d3f-6483-8a84-201700574975" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://ComputerScienceFoundations@dev.azure.com/ComputerScienceFoundations/Hashing/_git/Hashing" />
+          <option name="serverUri" value="https://dev.azure.com/ComputerScienceFoundations" />
+          <option name="userId" value="fc999075-5d3f-6483-8a84-201700574975" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f9989194-db81-4da0-b654-b4e3bd28efcd&quot;,&quot;name&quot;:&quot;ComputerScienceFoundations&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projectCollections/f9989194-db81-4da0-b654-b4e3bd28efcd&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Hashing Coding Exercise Solutions&quot;,&quot;id&quot;:&quot;97056a15-a32e-4767-adf2-69c9d2e312be&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projects/97056a15-a32e-4767-adf2-69c9d2e312be&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;172d5a24-6f88-45be-b4f7-80745d90914b&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;remoteUrl&quot;:&quot;https://ComputerScienceFoundations@dev.azure.com/ComputerScienceFoundations/Hashing/_git/Hashing&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/git/repositories/172d5a24-6f88-45be-b4f7-80745d90914b&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Hashing Coding Exercise Solutions&quot;,&quot;id&quot;:&quot;97056a15-a32e-4767-adf2-69c9d2e312be&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projects/97056a15-a32e-4767-adf2-69c9d2e312be&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/ComputerScienceFoundations" />
+          <option name="serverUri" value="https://dev.azure.com/ComputerScienceFoundations" />
+          <option name="userId" value="fc999075-5d3f-6483-8a84-201700574975" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f9989194-db81-4da0-b654-b4e3bd28efcd&quot;,&quot;name&quot;:&quot;ComputerScienceFoundations&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projectCollections/f9989194-db81-4da0-b654-b4e3bd28efcd&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Hashing Coding Exercise Solutions&quot;,&quot;id&quot;:&quot;97056a15-a32e-4767-adf2-69c9d2e312be&quot;,&quot;name&quot;:&quot;Hashing&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/ComputerScienceFoundations/_apis/projects/97056a15-a32e-4767-adf2-69c9d2e312be&quot;}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//computersciencefoundations@dev.azure.com/computersciencefoundations/hashing/_git/hashing" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
